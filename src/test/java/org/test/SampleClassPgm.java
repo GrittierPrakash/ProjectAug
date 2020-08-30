@@ -9,9 +9,8 @@ public class SampleClassPgm {
 		char c = s.charAt(2);
 		System.out.println(c);
 		
-	System.out.println("hi");
-	System.out.println("hello");
-	System.out.println("this is sample 2 program  to check conflict");
+
+		System.out.println("this is sample 2 program  to check conflict");
 
 }
 }
