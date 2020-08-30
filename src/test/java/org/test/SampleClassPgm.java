@@ -11,7 +11,7 @@ public class SampleClassPgm {
 		
 	System.out.println("hi");
 	System.out.println("hello");
-	System.out.println("this is sample program to check conflict");
+	System.out.println("this is sample 2 program  to check conflict");
 
 }
 }
